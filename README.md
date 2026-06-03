@@ -1,4 +1,4 @@
-# sborka-dlya-lohov
+# сборка для лохов
 [Скачать полный архив (моды на оптимизацию, визуал и т. д.)](https://www.dropbox.com/scl/fi/q6yzf1rw0vyuwg736h9mp/full_mods.zip?rlkey=82q8yzu6aui1t65t2iohw3f6p&st=859cj7cd&dl=1)
 ---
 [Скачать архив обязательных модов](https://www.dropbox.com/scl/fi/l407ttkara375zseb7m4q/mods.zip?rlkey=8thrc24be1cxnvlocudju2n9q&st=9s6ilcwf&dl=1)
