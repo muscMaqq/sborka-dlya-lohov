@@ -1,2 +1,3 @@
 # sborka-dlya-lohov
-idk
+**Обязательные моды**
+[Скачать архив](mods.zip?download=true)
