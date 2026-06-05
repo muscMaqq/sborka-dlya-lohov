@@ -1,4 +1,13 @@
 # сборка для лохов
+UPD: вот дополнительные обязательные моды:
+---
+[create-gunsmithing-1.21.1-1.4.6.jar](create-gunsmithing-1.21.1-1.4.6.jar)
+[curios-neoforge-9.5.1+1.21.1.jar](curios-neoforge-9.5.1+1.21.1.jar)
+[emerald_items-1.21.1.jar](emerald_items-1.21.1.jar)
+[ntgl-1.21.1-3.1.5.jar](ntgl-1.21.1-3.1.5.jar)
+[player-animation-lib-forge-2.0.4+1.21.1.jar](player-animation-lib-forge-2.0.4+1.21.1.jar)
+
+---
 [Скачать полный архив (моды на оптимизацию, визуал и т. д.)](https://www.dropbox.com/scl/fi/q6yzf1rw0vyuwg736h9mp/full_mods.zip?rlkey=82q8yzu6aui1t65t2iohw3f6p&st=859cj7cd&dl=1)
 ---
 [Скачать архив только обязательных модов](https://www.dropbox.com/scl/fi/vrw06ainx3hy0nwq2x83c/mods.zip?rlkey=ibvymjvdj5vajbrxrrz7r398j&st=8lrd9sez&dl=1)
